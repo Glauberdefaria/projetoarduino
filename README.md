@@ -2,7 +2,6 @@
 <h2 style="color: #2e6c80;">Descri&ccedil;&atilde;o:</h2>
 <p>O sistema de alarme &eacute; baseado em uma combina&ccedil;&atilde;o de um LDR com um feixe de laser e usa componentes relativamente baratos e da condi&ccedil;&atilde;o para regulagem de acordo com o ambiente atrav&eacute;s de pot&ecirc;nciometro.&nbsp;</p>
 <p>&Eacute; importante no Brasil, pois &eacute; um artificio que se bem aplicado pode evitar furtos, roubos e invas&otilde;es a propriedades privadas, avisando atraves de sirene a popula&ccedil;&atilde;o ao redor e ao proprio morador.</p>
-<p>Click the <span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">Clean</span> button to clean your source code.</p>
 <h2 style="color: #2e6c80;">Pr&eacute;-requisitos:</h2>
 <p><strong>Ferramentas:</strong></p>
 <ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">

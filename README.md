@@ -20,3 +20,7 @@
 <li style="clear: both;">IDE:&nbsp;</li>
 <li style="clear: both;">Sistema operacional usado durante a programa&ccedil;&atilde;o: Windows 10 64bits.</li>
 </ol>
+**Montagem
+<p><img src="https://github.com/Glauberdefaria/projetoarduino/blob/master/montagem.png" alt="" /></p>
+
+

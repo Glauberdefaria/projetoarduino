@@ -1,5 +1,6 @@
 /************************Professor Marlon Nardi**************************
 Autor: Marlon Nardi Walendorff
+Adaptado por Glauber
 Projeto: Alarme a Laser com Arduino
 Blog: http://professormarlonnardi.blogspot.com.br/
 Youtube: https://www.youtube.com/user/Marlon7642

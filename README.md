@@ -4,6 +4,8 @@
 <p>&Eacute; importante no Brasil, pois &eacute; um artificio que se bem aplicado pode evitar furtos, roubos e invas&otilde;es a propriedades privadas, avisando atraves de sirene a popula&ccedil;&atilde;o ao redor e ao proprio morador.</p>
 <h2 style="color: #2e6c80;">Pr&eacute;-requisitos:</h2>
 <p><strong>Ferramentas:</strong></p>
+<p><img src="https://github.com/Glauberdefaria/projetoarduino/blob/master/DiodoLaser.png" alt="" /></p>
+
 <ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
 <li style="clear: both;">Alicate de corte;</li>
 <li>Ferro de solda;</li>

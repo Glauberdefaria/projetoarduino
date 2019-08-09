@@ -13,13 +13,14 @@
 </ol>
 <p><strong>Materiais:</strong></p>
 <ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
-<li style="clear: both;">1 - Protoboad;<br />1 - Sirene 12V;<br />1 - Arduino UNO, MEGA, NANO ou MICRO;<br />1 - Cabo para o Arduino;<br />1 - LDR;<br />1 - Regulador de tens&atilde;o 7805;<br />1 - Bot&atilde;o NA;<br />1 - Transistor BC548 ou BC337 ou BC547;<br />1 - Diodo IN4007 ou IN4001;<br />1 - Capacitor eletrol&iacute;tico de 16uF x 16V;<br />1 - Fonte 12Vcc;<br />1 - Potenci&ocirc;metro de 20k;<br />1 - Rel&eacute; 5V de 5 pinos;<br />1 - LED amarelo;<br />1 - LED Azul;<br />2 - Resistores de 220R / 1/4W (vermelho, vermelho, marrom, dourado);<br />2 - Resistores de 10k / 1/4W (marrom, preto, laranja, dourado);<br />1 - Resistor de 1k / 1/4W (marrom, preto, vermelho, dourado).</li>
-<p><strong>*</strong></p>
-<br />Compilador: Arduino</li>
-<br />IDE: Arduino</li>
-<li style="clear: both;">Sistema operacional usado durante a programa&ccedil;&atilde;o: Windows 10 64bits.</li>
+<li style="clear: both;">1 - Protoboad;<br />1 - Sirene 12V;<br />1 - Arduino UNO, MEGA, NANO ou MICRO;<br />1 - Cabo para o Arduino;<br />1 - LDR;<br />1 - Regulador de tens&atilde;o 7805;<br />1 - Bot&atilde;o NA;<br />1 - Transistor BC548 ou BC337 ou BC547;<br />1 - Diodo IN4007 ou IN4001;<br />1 - Capacitor eletrol&iacute;tico de 16uF x 16V;<br />1 - Fonte 12Vcc;<br />1 - Potenci&ocirc;metro de 20k;<br />1 - Rel&eacute; 5V de 5 pinos;<br />1 - LED amarelo;<br />1 - LED Azul;<br />2 - Resistores de 220R / 1/4W (vermelho, vermelho, marrom, dourado);<br />2 - Resistores de 10k / 1/4W (marrom, preto, laranja, dourado);<br />1 - Resistor de 1k / 1/4W (marrom, preto, vermelho, dourado).</li> 
+ 
+<p><strong>INF:</strong></p>
+<br />- Compilador: Arduino</li>
+<br />- IDE: Arduino</li>
+<br />- Sistema operacional usado durante a programa&ccedil;&atilde;o: Windows 10 64bits.</li>
 </ol>
 <p><strong>** Diagrama</strong></p> 
-<p><img src="https://github.com/Glauberdefaria/projetoarduino/blob/master/Diagrama%20Fritzzing.jpg" alt="" width="900" height="300" /></p>
-<p><img src="https://github.com/Glauberdefaria/projetoarduino/blob/master/Esquema%20DD.jpg" alt="" width="900" height="300" /></p>
+<p><img src="https://github.com/Glauberdefaria/projetoarduino/blob/master/Diagrama%20Fritzzing.jpg" alt="" width="900" height="400" /></p>
+<p><img src="https://github.com/Glauberdefaria/projetoarduino/blob/master/Esquema%20DD.jpg" alt="" width="900" height="400" /></p>
 

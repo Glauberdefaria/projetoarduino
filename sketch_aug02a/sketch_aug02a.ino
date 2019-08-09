@@ -1,10 +1,8 @@
-/************************Professor Marlon Nardi**************************
+/***********************************************************************
 Autor: Marlon Nardi Walendorff
-Adaptado por Glauber
+Adaptado por Glauber Faria dos Santos
 Projeto: Alarme a Laser com Arduino
-Blog: http://professormarlonnardi.blogspot.com.br/
-Youtube: https://www.youtube.com/user/Marlon7642
-Facebook: https://www.facebook.com/professormarlonnardi
+
 ************************************************************************/
 // ------------------------------------------------------- Entradas Analógicas ----------------------------------------------------------- //
 #define SensorLDR A0 // Diz para o compilador (IDE do arduino) que SersorLDR e A0 são a mesma coisa.
@@ -72,22 +70,22 @@ void loop() {
   }
 
 
-  if (CONTA == 0) { // Se a variável CONTA estiver com o valor 0.
+  if (CONTA == 0) { // Se a variável CONTA estiver com o valor de 0.
 
     digitalWrite(LedAtivado, LOW);// Desliga o LED Ativado.
-    AcionaSireneEMantem = 0;// A variável AcionaSireneEMantem vai para o valor 0.
+    AcionaSireneEMantem = 0;// A variável AcionaSireneEMantem vai para o valor de 0.
   }
 
 
 
-  if (CONTA == 1) { // Se a variável CONTA estiver com o valor 1.
+  if (CONTA == 1) { // Se a variável CONTA estiver com o valor de 1.
     digitalWrite(LedAtivado, HIGH);// Liga o LED Ativado.
   }
 
 
-  if (CONTA == 2) { // Se a variável CONTA estiver com o valor 2.
+  if (CONTA == 2) { // Se a variável CONTA estiver com o valor de 2.
 
-    CONTA = 0;// A variável CONTA vai para o valor 0.
+    CONTA = 0;// A variável CONTA vai para o valor de 0.
   }
 
 
